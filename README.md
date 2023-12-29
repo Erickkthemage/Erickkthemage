@@ -1,3 +1,5 @@
+## @Erickkthemage's Profile
+
 👋 Hello there! Welcome to my GitHub profile. I'm Erick Diaz, a passionate computer science student interested in game development.
 
 ## About Me
