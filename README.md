@@ -18,7 +18,7 @@ I am currently a senior at Wilmington University, pursuing my bachelor's degree 
 
 ## Connect with Me
 
-- [LinkedIn](linkedin.com/in/erick-diaz-1a6376288)
+- [LinkedIn](www.linkedin.com/in/erick-diaz-1a6376288)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions.
 
